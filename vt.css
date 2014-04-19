@@ -1,0 +1,18 @@
+﻿body {
+    font-family: Impact, Georgia, "Times New Roman", Times, serif;
+    color: black;
+    background-color: #000000;
+    background-image:url("images/texture.jpg");
+    background-repeat:no-repeat;
+    background-position: 0px 0px;
+    background-size: 100% ;
+}
+
+h1 {
+    margin-left: 40%;
+    font-family: Impact, Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
+}
+img {
+	display: block; 
+margin: 0 auto; 
+}
